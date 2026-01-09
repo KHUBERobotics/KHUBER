@@ -11,14 +11,20 @@ long-term development toward **RoboCup 2026**.
 
 ## Faculty Advisor
 
-### Jinseok Lee
-![Jinseok Lee](https://lh3.googleusercontent.com/sitesv/AAzXCkf2wd6bARjPLjKuAOoqaPtx8gm0R_3muLo4_a_w6MVbw6R9am9ypcjNOJt746RpNlRCRDoKuCyKmXnVk9Epkf40HA5332ITqOFBM0DBqT7n1xNY5Ph4Are9rI_z8OCgC7C_tpeemkcwSHqt2AX8nrN9Mq_5DGBIwS3iTYFx4KQTgKShJTAd_HRHKjWPpAnnm9fRI6EQPJFJashGPhUqGuWF8OxweVYA9IS6LRc=w1280){ width="180" }
+<div class="profile-row">
+  <div class="profile-photo">
+    <img src="https://lh3.googleusercontent.com/sitesv/AAzXCkf2wd6bARjPLjKuAOoqaPtx8gm0R_3muLo4_a_w6MVbw6R9am9ypcjNOJt746RpNlRCRDoKuCyKmXnVk9Epkf40HA5332ITqOFBM0DBqT7n1xNY5Ph4Are9rI_z8OCgC7C_tpeemkcwSHqt2AX8nrN9Mq_5DGBIwS3iTYFx4KQTgKShJTAd_HRHKjWPpAnnm9fRI6EQPJFJashGPhUqGuWF8OxweVYA9IS6LRc=w1280" alt="Jinseok Lee">
+  </div>
 
-**Professor, Department of Biomedical Engineering**  
-Kyung Hee University, Republic of Korea  
+  <div class="profile-info">
+    <h3>Jinseok Lee</h3>
+    <p><strong>Professor, Department of Biomedical Engineering</strong><br>
+    Kyung Hee University, Republic of Korea</p>
 
-**Email:** gonasago@khu.ac.kr
-
+    <p><strong>Email:</strong> <a href="mailto:gonasago@khu.ac.kr">gonasago@khu.ac.kr</a><br>
+    <strong>Tel:</strong> +82-31-201-2570</p>
+  </div>
+</div>
 ---
 
 ## Team Leadership
