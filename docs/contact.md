@@ -6,8 +6,6 @@
 ## GitHub
 - (org/repo link)
 
-## Social / Community
+## YouTube
 - (YouTube / Instagram / Discord / OpenChat)
 
-## Recruiting
-- See: [Join Us](join.md)
