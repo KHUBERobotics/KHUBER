@@ -37,26 +37,48 @@
 }
 
 /* =============================
-   Header/Tabs height (blue area)
+   Force header/tabs height (Material)
    ============================= */
 
-/* Header(맨 위 파란 바) 높이 */
+/* 1) Header (top blue bar) */
 .md-header {
-  height: 4.2rem;              /* 기본보다 크게 */
+  min-height: 4.2rem !important;
+  height: auto !important;          /* height 고정 대신 auto로 */
+  padding-top: 0.35rem !important;
+  padding-bottom: 0.35rem !important;
 }
 
-/* Header 내부 정렬(세로 중앙) */
+/* Header inner layout */
 .md-header__inner {
-  height: 4.2rem;
+  min-height: 4.2rem !important;
+  height: auto !important;
   align-items: center;
 }
 
-/* 탭( Home / About ... ) 영역 높이 */
+/* Title area sometimes constrains height */
+.md-header__title,
+.md-header__topic {
+  line-height: 1.2 !important;
+}
+
+/* 2) Tabs bar (Home/About/...) */
 .md-tabs {
-  height: 3.0rem;
+  min-height: 3.0rem !important;
+  height: auto !important;
+  padding-top: 0.15rem !important;
+  padding-bottom: 0.15rem !important;
 }
+
+/* Tabs inner wrapper */
 .md-tabs__inner {
-  height: 3.0rem;
+  min-height: 3.0rem !important;
+  height: auto !important;
   align-items: center;
 }
 
+/* Tab links themselves can clamp the bar height */
+.md-tabs__link {
+  padding-top: 0.55rem !important;
+  padding-bottom: 0.55rem !important;
+  line-height: 1.1 !important;
+}
