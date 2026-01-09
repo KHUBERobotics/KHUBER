@@ -21,7 +21,16 @@ long-term development toward **RoboCup 2026**.
     <p><strong>Professor, Department of Biomedical Engineering</strong><br>
     Kyung Hee University, Republic of Korea</p>
 
-    <p><strong>Email:</strong> <a href="mailto:gonasago@khu.ac.kr">gonasago@khu.ac.kr</a></p>
+    <p>
+      <strong>Research Lab:</strong>
+      <a href="https://sites.google.com/site/bamilab/home?authuser=0" target="_blank" rel="noopener">
+        BaMI Lab (Biomedical & Medical Instrumentation Lab)
+      </a>
+    </p>
+
+    <p><strong>Email:</strong>
+      <a href="mailto:gonasago@khu.ac.kr">gonasago@khu.ac.kr</a>
+    </p>
   </div>
 </div>
 ---
