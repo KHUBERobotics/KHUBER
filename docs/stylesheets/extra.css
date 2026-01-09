@@ -2,25 +2,24 @@
 /* Header title (logo text) */
 /* ============================= */
 
-/* KHUBER text next to the robot icon */
-.md-header__title {
-  font-size: 1.6rem;      /* 기본 ~1.1rem → 크게 */
-  font-weight: 700;
+/* 로고 옆 'KHUBER' 텍스트(페이지 이동해도 고정) */
+.md-header__title,
+.md-header__topic,
+.md-header__topic .md-ellipsis {
+  font-size: 1.6rem !important;
+  font-weight: 800 !important;
 }
 
-/* ============================= */
-/* Top navigation menu */
-/* ============================= */
+/* =============================
+   Top navigation tabs font size
+   ============================= */
 
-/* Top-level navigation items */
 .md-tabs__link {
-  font-size: 1.05rem;     /* 기본 ~0.85rem */
-  font-weight: 500;
+  font-size: 1.05rem !important;
+  font-weight: 600 !important;
 }
-
-/* Active tab */
 .md-tabs__link--active {
-  font-weight: 700;
+  font-weight: 800 !important;
 }
 
 /* ============================= */
