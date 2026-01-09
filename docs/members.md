@@ -29,13 +29,28 @@ long-term development toward **RoboCup 2026**.
 
 ## Team Leadership
 
-### Hooseok Lee — Team Lead (Research Scientist)
-![Hooseok Lee](PHOTO_URL_HOOSEOK){ width="180" }
+<div class="profile-row">
+  <div class="profile-photo">
+    <img src="PHOTO_URL_HOOSEOK" alt="Hooseok Lee">
+  </div>
+  <div class="profile-info">
+    <h3>Hooseok Lee — Team Lead (Research Scientist)</h3>
+    <p><strong>Research Interest:</strong><br>
+    Medical Instrumentation, Wearable Devices, and Biosignal Processing</p>
+    <p><strong>Email:</strong> <a href="mailto:gntjr1@khu.ac.kr">gntjr1@khu.ac.kr</a></p>
+  </div>
+</div>
 
-**Research Interest:**  
-Medical Instrumentation, Wearable Devices, and Biosignal Processing  
-
-**Email:** gntjr1@khu.ac.kr
+<div class="profile-row">
+  <div class="profile-photo">
+    <img src="PHOTO_URL_HYUNHAE" alt="Hyunhae Park">
+  </div>
+  <div class="profile-info">
+    <h3>Hyunhae Park — Deputy Team Lead</h3>
+    <p>Currently with Biomedical Engineering, Kyung Hee University</p>
+    <p><strong>Email:</strong> <a href="mailto:qkrguswo2946@khu.ac.kr">qkrguswo2946@khu.ac.kr</a></p>
+  </div>
+</div>
 
 ---
 
@@ -47,33 +62,40 @@ Currently with Biomedical Engineering, Kyung Hee University
 **Email:** qkrguswo2946@khu.ac.kr
 
 ---
-
 ## Team Members
 
-### Euisun Jung
-![Euisun Jung](PHOTO_URL_EUISUN){ width="180" }
+<div class="profile-row">
+  <div class="profile-photo">
+    <img src="PHOTO_URL_EUISUN" alt="Euisun Jung">
+  </div>
+  <div class="profile-info">
+    <h3>Euisun Jung</h3>
+    <p>Currently with Biomedical Engineering, Kyung Hee University</p>
+    <p><strong>Email:</strong> <a href="mailto:dominicjjung@khu.ac.kr">dominicjjung@khu.ac.kr</a></p>
+  </div>
+</div>
 
-Currently with Biomedical Engineering, Kyung Hee University  
+<div class="profile-row">
+  <div class="profile-photo">
+    <img src="PHOTO_URL_SOOHAN" alt="Soohan Lim">
+  </div>
+  <div class="profile-info">
+    <h3>Soohan Lim</h3>
+    <p>Currently with Biomedical Engineering, Kyung Hee University</p>
+    <p><strong>Email:</strong> <a href="mailto:luke00804@khu.ac.kr">luke00804@khu.ac.kr</a></p>
+  </div>
+</div>
 
-**Email:** dominicjjung@khu.ac.kr
-
----
-
-### Soohan Lim
-![Soohan Lim](PHOTO_URL_SOOHAN){ width="180" }
-
-Currently with Biomedical Engineering, Kyung Hee University  
-
-**Email:** luke00804@khu.ac.kr
-
----
-
-### Yerang Gwak
-![Yerang Gwak](PHOTO_URL_YERANG){ width="180" }
-
-Currently with Biomedical Engineering, Kyung Hee University  
-
-**Email:** letter0930@khu.ac.kr
+<div class="profile-row">
+  <div class="profile-photo">
+    <img src="PHOTO_URL_YERANG" alt="Yerang Gwak">
+  </div>
+  <div class="profile-info">
+    <h3>Yerang Gwak</h3>
+    <p>Currently with Biomedical Engineering, Kyung Hee University</p>
+    <p><strong>Email:</strong> <a href="mailto:letter0930@khu.ac.kr">letter0930@khu.ac.kr</a></p>
+  </div>
+</div>
 
 ---
 
