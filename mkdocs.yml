@@ -24,7 +24,8 @@ nav:
   - Home: index.md
   - About:
       - Mission & Overview: about.md
-      - Team: team.md
+      
+  - Members: members.md
   - RoboCup 2026:
       - Division & Rules Snapshot: robocup_2026.md
       - Roadmap: roadmap.md
