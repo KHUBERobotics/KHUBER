@@ -36,3 +36,28 @@
     font-size: 0.95rem;
   }
 }
+
+/* =============================
+   Header/Tabs height (blue area)
+   ============================= */
+
+/* Header(맨 위 파란 바) 높이 */
+.md-header {
+  height: 4.2rem;              /* 기본보다 크게 */
+}
+
+/* Header 내부 정렬(세로 중앙) */
+.md-header__inner {
+  height: 4.2rem;
+  align-items: center;
+}
+
+/* 탭( Home / About ... ) 영역 높이 */
+.md-tabs {
+  height: 3.0rem;
+}
+.md-tabs__inner {
+  height: 3.0rem;
+  align-items: center;
+}
+
