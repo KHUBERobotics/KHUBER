@@ -24,7 +24,7 @@ long-term development toward **RoboCup 2026**.
     <p>
       <strong>Research Lab:</strong>
       <a href="https://sites.google.com/site/bamilab/home?authuser=0" target="_blank" rel="noopener">
-        BaMI Lab (Biomedical & Medical Instrumentation Lab)
+        AI-WM Lab
       </a>
     </p>
 
@@ -43,8 +43,7 @@ long-term development toward **RoboCup 2026**.
   </div>
   <div class="profile-info">
     <h3>Hooseok Lee — Team Lead (Research Scientist)</h3>
-    <p><strong>Research Interest:</strong><br>
-    Medical Instrumentation, Wearable Devices, and Biosignal Processing</p>
+    <p>Research Scientist, Kyung Hee University</p>
     <p><strong>Email:</strong> <a href="mailto:gntjr1@khu.ac.kr">gntjr1@khu.ac.kr</a></p>
   </div>
 </div>
