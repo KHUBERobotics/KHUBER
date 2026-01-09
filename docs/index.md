@@ -36,8 +36,8 @@ KHUBER is a robotics team based at Kyung Hee University, building **autonomous h
 | Firmware | STM32 firmware with UART (Dynamixel), USB, and DMA/RTOS-based task design |
 
 ## Links
-- GitHub: https://github.com/KHUBERobotics
-- Videos: https://www.youtube.com/watch?v=cC_jY2EgsNI
+- GitHub: [KHUBERobotics](https://github.com/KHUBERobotics)
+- Videos: [Demo video](https://www.youtube.com/watch?v=cC_jY2EgsNI)
 
 ## Latest updates
 - 2026-01-09: Initial KHUBER public website draft
