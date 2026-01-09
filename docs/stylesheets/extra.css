@@ -98,9 +98,29 @@
 .md-tabs__link {
   padding-top: 0.1rem !important;
   padding-bottom: 0.55rem !important;
-  padding-left: 2.1rem !important;   /* 기본 ~0.8rem */
-  padding-right: 2.1rem !important;
+  padding-left: 3.1rem !important;   /* 기본 ~0.8rem */
+  padding-right: 3.1rem !important;
   line-height: 1.1 !important;
 }
 
 
+/* =============================
+   Reduce gap between header and tabs
+   ============================= */
+
+/* 헤더 아래쪽 여백 줄이기 */
+.md-header {
+  padding-bottom: 0.2rem !important;   /* 기본보다 줄임 */
+}
+
+/* 탭 위쪽 여백 줄이기 */
+.md-tabs {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* 혹시 남아있는 내부 여백 제거 */
+.md-tabs__inner {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
