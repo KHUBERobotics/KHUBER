@@ -37,6 +37,24 @@
 }
 
 /* =============================
+   Sidebar navigation spacing
+   ============================= */
+
+/* 각 메뉴 항목(li) 사이 간격 */
+.md-nav__item {
+  margin-top: 0.25rem !important;   /* 기본보다 살짝 */
+  margin-bottom: 0.25rem !important;
+}
+
+/* 실제 클릭되는 링크 영역 */
+.md-nav__link {
+  padding-top: 0.35rem !important;
+  padding-bottom: 0.35rem !important;
+}
+
+
+
+/* =============================
    Force header/tabs height (Material)
    ============================= */
 
