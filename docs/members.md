@@ -53,7 +53,7 @@ long-term development toward **RoboCup 2026**.
 
 <div class="profile-row">
   <div class="profile-photo">
-    <img src="[PHOTO_URL_EUISUN](https://lh3.googleusercontent.com/sitesv/AAzXCkcndOSu-WT-WPuC0vBKwqs63fRRSZRzx53VtdphVe766FNQXc_KCfjYIkYmQGo4zAQk-gmcpMZFwg-0FdR1lZnvkc37eOffGy_VbkI21UEJI3Ir2_jp9CXTXKJS_enIcbnO_YVTdu4zMkbd7ULIAeFydEmTJymLq_tw6VaE41WAUGPAlSiR38b82KG5BbfQTCwKPd5iuoevtHR4A--nck8FIZsJq5zWhrr1Beg=w1280)" alt="Euisun Jung">
+    <img src="https://lh3.googleusercontent.com/sitesv/AAzXCkcndOSu-WT-WPuC0vBKwqs63fRRSZRzx53VtdphVe766FNQXc_KCfjYIkYmQGo4zAQk-gmcpMZFwg-0FdR1lZnvkc37eOffGy_VbkI21UEJI3Ir2_jp9CXTXKJS_enIcbnO_YVTdu4zMkbd7ULIAeFydEmTJymLq_tw6VaE41WAUGPAlSiR38b82KG5BbfQTCwKPd5iuoevtHR4A--nck8FIZsJq5zWhrr1Beg=w1280" alt="Euisun Jung">
   </div>
   <div class="profile-info">
     <h3>Euisun Jung</h3>
