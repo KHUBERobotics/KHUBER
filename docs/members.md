@@ -12,7 +12,7 @@ long-term development toward **RoboCup 2026**.
 ## Faculty Advisor
 
 ### Jinseok Lee
-![Jinseok Lee]([PHOTO_URL_JINSEOK](https://lh3.googleusercontent.com/sitesv/AAzXCkf2wd6bARjPLjKuAOoqaPtx8gm0R_3muLo4_a_w6MVbw6R9am9ypcjNOJt746RpNlRCRDoKuCyKmXnVk9Epkf40HA5332ITqOFBM0DBqT7n1xNY5Ph4Are9rI_z8OCgC7C_tpeemkcwSHqt2AX8nrN9Mq_5DGBIwS3iTYFx4KQTgKShJTAd_HRHKjWPpAnnm9fRI6EQPJFJashGPhUqGuWF8OxweVYA9IS6LRc=w1280)){ width="180" }
+![Jinseok Lee](https://lh3.googleusercontent.com/sitesv/AAzXCkf2wd6bARjPLjKuAOoqaPtx8gm0R_3muLo4_a_w6MVbw6R9am9ypcjNOJt746RpNlRCRDoKuCyKmXnVk9Epkf40HA5332ITqOFBM0DBqT7n1xNY5Ph4Are9rI_z8OCgC7C_tpeemkcwSHqt2AX8nrN9Mq_5DGBIwS3iTYFx4KQTgKShJTAd_HRHKjWPpAnnm9fRI6EQPJFJashGPhUqGuWF8OxweVYA9IS6LRc=w1280){ width="180" }
 
 **Professor, Department of Biomedical Engineering**  
 Kyung Hee University, Republic of Korea  
