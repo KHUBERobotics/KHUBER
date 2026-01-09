@@ -139,9 +139,10 @@
 
 .profile-photo img{
   width: 180px;
-  height: 180px;
-  object-fit: cover;        /* 사진 비율 유지하면서 채움 */
-  border-radius: 8px;       /* 모서리 살짝 둥글게 */
+  height: 2400px;
+  object-fit: contain;     /* ✅ 안 잘림 */
+  background: #fff;        /* 여백 생기면 배경 */
+  border-radius: 8px;
 }
 
 .profile-info h3{
