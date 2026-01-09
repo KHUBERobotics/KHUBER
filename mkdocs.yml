@@ -38,7 +38,7 @@ nav:
       - Safety & Testing: safety_testing.md
   - Media: media.md
   #- Join Us: join.md
-  - Sponsors: sponsors.md
+  #- Sponsors: sponsors.md
   - Contact: contact.md
 
 markdown_extensions:
