@@ -1,0 +1,38 @@
+/* ============================= */
+/* Header title (logo text) */
+/* ============================= */
+
+/* KHUBER text next to the robot icon */
+.md-header__title {
+  font-size: 1.6rem;      /* 기본 ~1.1rem → 크게 */
+  font-weight: 700;
+}
+
+/* ============================= */
+/* Top navigation menu */
+/* ============================= */
+
+/* Top-level navigation items */
+.md-tabs__link {
+  font-size: 1.05rem;     /* 기본 ~0.85rem */
+  font-weight: 500;
+}
+
+/* Active tab */
+.md-tabs__link--active {
+  font-weight: 700;
+}
+
+/* ============================= */
+/* Optional: mobile header */
+/* ============================= */
+
+@media (max-width: 768px) {
+  .md-header__title {
+    font-size: 1.3rem;
+  }
+
+  .md-tabs__link {
+    font-size: 0.95rem;
+  }
+}
