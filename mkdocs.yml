@@ -1,0 +1,56 @@
+site_name: KHUBER
+site_description: Kyung Hee University Biomedical Engineering Robotics — RoboCup Humanoid Soccer League (Small Robot Division)
+site_url: https://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPO>/
+
+repo_name: KHUBER Team Site
+repo_url: https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO>
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+  icon:
+    logo: material/robot
+
+nav:
+  - Home: index.md
+  - About:
+      - Mission & Overview: about.md
+      - Team: team.md
+  - RoboCup 2026:
+      - Division & Rules Snapshot: robocup_2026.md
+      - Roadmap: roadmap.md
+      - Competitions & Logs: competitions.md
+  - Engineering:
+      - Robots (HW): robots.md
+      - Software (SW): software.md
+      - Walking & Learning: walking_learning.md
+      - Perception & Localization: perception_localization.md
+      - Embedded & Control: embedded_control.md
+      - Safety & Testing: safety_testing.md
+  - Media: media.md
+  #- Join Us: join.md
+  - Sponsors: sponsors.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - attr_list
+  - def_list
+  - tables
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search
