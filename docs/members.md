@@ -14,7 +14,7 @@ long-term development toward **RoboCup 2026**.
 <div class="profile-row">
   <div class="profile-photo">
     <img class="imgbin"
-     data-bin="assets/test1.bin"
+     data-bin="/KHUBER/assets/test1.bin"
      data-mime="image/jpeg"
      width="180"
      alt="Jinseok Lee">
