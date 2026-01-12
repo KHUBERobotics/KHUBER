@@ -13,7 +13,11 @@ long-term development toward **RoboCup 2026**.
 
 <div class="profile-row">
   <div class="profile-photo">
-    <img src="https://lh3.googleusercontent.com/sitesv/AAzXCkf2wd6bARjPLjKuAOoqaPtx8gm0R_3muLo4_a_w6MVbw6R9am9ypcjNOJt746RpNlRCRDoKuCyKmXnVk9Epkf40HA5332ITqOFBM0DBqT7n1xNY5Ph4Are9rI_z8OCgC7C_tpeemkcwSHqt2AX8nrN9Mq_5DGBIwS3iTYFx4KQTgKShJTAd_HRHKjWPpAnnm9fRI6EQPJFJashGPhUqGuWF8OxweVYA9IS6LRc=w1280" alt="Jinseok Lee">
+    <img class="imgbin"
+     data-bin="assets/test1.bin"
+     data-mime="image/jpeg"
+     width="180"
+     alt="Jinseok Lee">
   </div>
 
   <div class="profile-info">
