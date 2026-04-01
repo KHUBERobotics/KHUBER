@@ -62,7 +62,7 @@ long-term development toward **RoboCup 2026**.
      data-bin="/KHUBER/assets/test3.bin"
      data-mime="image/jpeg"
      width="180"
-     alt="Hyunhae Park">
+     alt="Hyunjae Park">
   </div>
   <div class="profile-info">
     <h3>Hyunhae Park — Deputy Team Lead</h3>
@@ -92,7 +92,7 @@ long-term development toward **RoboCup 2026**.
      data-bin="/KHUBER/assets/test5.bin"
      data-mime="image/jpeg"
      width="180"
-     alt="Soohan Lim">
+     alt="Soohan Im">
   </div>
   <div class="profile-info">
     <h3>Soohan Lim</h3>
